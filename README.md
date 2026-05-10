@@ -34,6 +34,20 @@ Mobile application integration
 Cloud monitoring dashboard
 Health monitoring sensors
 
+Parts Used 🔧
+Arduino UNO
+MPU6050 Accelerometer & Gyroscope Sensor
+GPS Neo-6M Module
+A7670 4G SIMCOM Module
+SIM Card
+Li-ion Battery
+Buck Converter (5V Output)
+Connecting Wires
+Breadboard / PCB
+Helmet
+Antenna for 4G Module
+USB Cable for Programming Arduino
+
 code used 
 ```
 #include <SoftwareSerial.h>
