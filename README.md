@@ -34,7 +34,8 @@ Mobile application integration
 Cloud monitoring dashboard
 Health monitoring sensors
 
-code///////
+code used 
+```
 #include <SoftwareSerial.h>
 #include <TinyGPS++.h>
 #include <Wire.h>
