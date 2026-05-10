@@ -71,7 +71,7 @@ code used
 SoftwareSerial gsm(7, 8);
 
 // Mobile Number
-String phoneNumber = "+917005469421";
+String phoneNumber = "+91xxxxxxxxxx";
 
 // GPS
 SoftwareSerial gpsSerial(4, 3);
