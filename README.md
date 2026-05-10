@@ -35,7 +35,9 @@ Cloud monitoring dashboard
 Health monitoring sensors
 
 Parts Used 🔧
+
 1.Arduino UNO
+
 2.MPU6050 Accelerometer & Gyroscope Sensor
 
 3.GPS Neo-6M Module
