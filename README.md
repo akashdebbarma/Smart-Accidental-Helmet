@@ -37,15 +37,25 @@ Health monitoring sensors
 Parts Used 🔧
 1.Arduino UNO
 2.MPU6050 Accelerometer & Gyroscope Sensor
+
 3.GPS Neo-6M Module
+
 4.A7670 4G SIMCOM Module
+
 5.SIM Card
+
 6.Li-ion Battery
+
 7.Buck Converter (5V Output)
+
 8Connecting Wires
+
 9.Breadboard / PCB
+
 10.Helmet
+
 11.Antenna for 4G Module
+
 12.USB Cable for Programming Arduino
 
 code used 
